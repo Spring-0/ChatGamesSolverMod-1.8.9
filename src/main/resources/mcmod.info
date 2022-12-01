@@ -1,0 +1,16 @@
+[
+{
+  "modid": "springmod",
+  "name": "",
+  "description": "Chat Solver Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Spring"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
